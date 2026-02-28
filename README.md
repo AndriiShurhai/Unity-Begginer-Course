@@ -1,2 +1,2 @@
 # University Unity Begginer Course
-Last finished stage: Audio Essentials
+Last finished stage: Programming Essentials
